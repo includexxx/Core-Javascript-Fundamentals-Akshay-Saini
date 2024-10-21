@@ -1,7 +1,7 @@
 ## JavaScript Prototypes and Prototypal Inheritance
 
 ### 1. **Introduction to Prototypes**
-Hello everyone, this is Akshay, and today I'll walk you through the concept of **Prototypal Inheritance** in JavaScript. Before diving into inheritance, let's first understand **what a prototype is** and **prototype chaining**.
+Hello everyone, Today we will walk through the concept of **Prototypal Inheritance** in JavaScript. Before diving into inheritance, let's first understand **what a prototype is** and **prototype chaining**.
 
 In JavaScript, almost everything is an object, and every object has an internal link to another object called its **prototype**. This connection forms a chain, commonly referred to as the **prototype chain**. Through this chain, objects can access properties and methods of their prototypes.
 
